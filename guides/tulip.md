@@ -1,6 +1,6 @@
 -🧼 Clean flashing guide - 🧽
 
-• Boot to latest PE Recovery
+• Boot to latest official TWRP Recovery
 • Select Apply Update and flash rom from ADB sideload
 • Factory reset
 • Reboot to recovery
@@ -11,7 +11,7 @@
 
 ⚠️Check Release notes in case dirty flashing isn't supported over a specific build, also, use the OTA updater, if you're having issues with it then follow these steps⚠️
 
-• Boot to latest PE Recovery
+• Boot to latest official TWRP Recovery
 • Select Apply Update and flash rom from ADB sideload
 • Reboot to recovery
 • Flash latest firmware (Skip if you already have it)
