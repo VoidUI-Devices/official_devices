@@ -1,4 +1,27 @@
 ========================
+VoidUI Tiramisu Project May Update Release
+========================
+Based on Android 13 QPR2 Release 43
+========================
+Changelog:
+========================
+* Update to May Security patch & Gapps
+* Allow disabling refresh rate lowering in battery saver
+* Various Performance optimizations
+* Reduce screenshot dismiss delay to 3 seconds
+* Add toggle for 3-button navbar inversion
+* Update Aperture to latest available version
+========================
+Device Side changes:
+========================
+* Rework device trees with cleanups of not needed changes
+* Update Dolby Engine permissions
+* Set VENDOR_SECURITY_PATCH to platform
+* Rework with cleanup of mdmhelper rules
+* Various fixes and improvements
+* Rework Redline kernel on top of ASB-2023-04-05_4.19-stable & LA.UM.9.12.r1-15300-SMxx50.QSSI12.0
+* Various kernel improvements in different aspects underhood
+========================
 VoidUI Tiramisu Project April Update Release
 ========================
 Based on Android 13 QPR2 Release 41
