@@ -1,4 +1,35 @@
 ========================
+VoidUI Tiramisu Project EOL Alioth Release
+========================
+I was using F3 from 2021.05 and was:
+* Part of SyberiaOS Team in Android 11
+* PPUI Android 12.1 Core Dev
+* VoidUI Android 12.1 - 13.0 Core dev
+Time to change device and move forward
+All changes for F3 will be as always available in https://github.com/VoidUI-Devices
+Thanks to all supporters and to all interested in our project for F3
+========================
+Side note: Planning to change to Poco F5 Pro, trees will make from scratch, will take time
+Join: https://t.me/VoidUI_PocoF5Pro | https://t.me/VoidUI_Mondrian for future F5 Pro development
+========================
+Based on Android 13 QPR2 Release 43
+========================
+System Changelog:
+========================
+- Import additional fixes and improvements based on Xiaomi A13 changes
+- Add support of MiuiCamera and Xiaomi Vendor Tags and more
+- Added support of Poweroffalarm service (Device will turn on from off state 2 minutes before alarm will work)
+- Additional System Improvements and camera support
+========================
+Device Changelog:
+========================
+- Redline Kernel: Improvements and fixes for more proper and fast work
+- Add support of Miui (Leica) Camera with proper adaptation for F3
+- Add support of Miui Gallery and MiVideo
+- Remove all camera shims, fix for native environment
+- Import Qualcomm CameraX Vendor Extensions
+- Added possibility to turn off Fast Charging
+========================
 VoidUI Tiramisu Project May Update Second Release
 ========================
 Based on Android 13 QPR2 Release 43
